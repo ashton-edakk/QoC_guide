@@ -16,7 +16,7 @@ Follow these steps to print a QoC booklet.
 
 Open File Explorer and navigate to the booklet you want to print. Open the file.
 
-![File Explorer](photos/file-explorer.png)
+![File Explorer](photos/fileExplorer-mh.png)
 
 ### Step 2: Open the Print Menu
 
